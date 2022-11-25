@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289346259567",
+    "project_id": "hakaton2-bdb11",
+    "storage_bucket": "hakaton2-bdb11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289346259567:android:8d4cb177496e6e601f5b9a",
+        "android_client_info": {
+          "package_name": "com.brcaninovich.hakaton2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289346259567-elpdfbtosbeksi9mqb6emega1ohacn0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApi8lyZo32hpuecVE7PCXW7UgLBRTSEoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289346259567-elpdfbtosbeksi9mqb6emega1ohacn0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
